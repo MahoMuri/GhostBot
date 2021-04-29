@@ -13,6 +13,7 @@ bower_components
 vendor
 
 # Caches
+.env
 .cache
 .npm
 .eslintcache
