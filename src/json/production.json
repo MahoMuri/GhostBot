@@ -1,0 +1,5 @@
+{
+    "token": "TOKEN_PROD",
+    "db": "prod.db",
+    "prefix": "$"
+}
