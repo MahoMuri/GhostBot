@@ -11,6 +11,8 @@ logs
 node_modules
 bower_components
 vendor
+dev.db
+prod.db
 
 # Caches
 .env
@@ -32,6 +34,8 @@ out
 # Editor directories and files
 .idea
 .vscode
+.templates
+template.config.js
 *.suo
 *.ntvs*
 *.njsproj
